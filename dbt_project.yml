@@ -12,7 +12,7 @@ profile: default # Put your profile here
 model-paths: ["models"]
 analysis-paths: ["analyses"]
 test-paths: ["data-tests"]
-seed-paths: ["seeds"]
+seed-paths: ["seed"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
